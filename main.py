@@ -1,13 +1,7 @@
 """variables"""
 
-# sher = "harsh bhaiya"
-
-# SheryiansSchool = "students" #pascal case
-
-# sheryiansSchool = "students" #camel case
-
-# sheryians_school = "students" #snake case
-
+# Palak Panchal 
+# Python Material End-to-End for Data Science 
 
 
 
